@@ -1,0 +1,19 @@
+.click-box{
+    width: 10rem;
+    height: 10rem;
+    border: 1px solid red;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    user-select: none;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
